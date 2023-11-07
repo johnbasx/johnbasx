@@ -11,7 +11,7 @@
 - 👯 Love to collaborate with other businesses, developers for new projects.
 - ⚡ Other interests to keep my mental & physical health in check: Gym to give me peace, 🎨draw/paint/design or illustrate to find a creative balance and ⚽ play football/soccer to burn some extra calories.
 
-[![](https://visitcount.itsvg.in/api?id=johnybas&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=johnbasx&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Connect with my socials:
  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/johnbasx) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/John.SkY8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johnbasx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnbasx) [ ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/johnybas) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/johnybas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/johnbasx) 
