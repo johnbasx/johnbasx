@@ -1,5 +1,5 @@
 
-### Hi, I'm Johnbas - [johnybas][johnbas-github-profile] 👋
+### Hi, I'm Johnbas - [johnbasx][johnbas-github-profile] 👋
 
 ## Entrepreneur | Brand Development | Frontend Developer 
 
@@ -42,7 +42,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-[johnbas-github-profile]: https://github.com/johnybas/
+[johnbas-github-profile]: https://github.com/johnbasx/
 [foxbeta-website]: https://huskbee.vercel.app/
 [agocons-website]: https://unclesbiryani.com
 [biryani-website]: https://unclesbiryani.com
