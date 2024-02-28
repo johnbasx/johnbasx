@@ -1,6 +1,9 @@
 
-### Hi, I'm Johnbas - [johnbasx][johnbas-github-profile] [Foxbeta](https://foxbeta.tech) 👋
+### Hi, I'm Johnbas - [johnbasx][johnbas-github-profile] 👋
 
+[Foxbeta](https://foxbeta.tech)
+
+<hr/>
 
 ## Entrepreneur | Brand Development | Frontend Developer 
 
