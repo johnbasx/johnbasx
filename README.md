@@ -1,7 +1,7 @@
 
 ### Hi, I'm Johnbas - [johnbasx][johnbas-github-profile] 👋
 
-[Foxbeta](https://foxbeta.tech)
+[Foxbeta Private Limited][foxbeta-website]
 
 <hr/>
 
@@ -47,7 +47,8 @@
 
 
 [johnbas-github-profile]: https://github.com/johnbasx/
-[foxbeta-website]: https://huskbee.vercel.app/
+[huskbee-website]: https://huskbee.vercel.app/
+[foxbeta-website]: https://foxbeta.tech
 [agocons-website]: https://unclesbiryani.com
 [biryani-website]: https://unclesbiryani.com
 [twitter]: https://twitter.com/johnybas
