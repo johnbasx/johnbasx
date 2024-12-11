@@ -1,16 +1,16 @@
 
 ### Hi, I'm Johnbas - [johnbasx][johnbas-github-profile] 👋
 
-[Foxbeta Private Limited][foxbeta-website]
+<!-- [Foxbeta Private Limited][foxbeta-website] -->
 
-<hr/>
+<!-- <hr/>
 
 ## Entrepreneur | Brand Development | Frontend Developer 
 
 - 🔭 Loving my job as - 
 	1. Director & CEO, [Foxbeta Pvt Ltd][foxbeta-website] - An IT & Software Company focused on providing advanced tech services and products to enhance the lifestyle and solve the daily life problems of the middle class population.
 	2. CEO, [Agocons Agrotech Industries Pvt Ltd][agocons-website] - A Poultry Feed Production Company providing low cost yet quality maintained poultry feed in the North East Indian market focused on making profitable yields for the poultry farmers and the overall poultry market.
-	3. Founder, [Uncle's Biryani][biryani-website] - A small time biryani business with a unique Manipuri flavour & taste with plans and vision to make it scalable into a franchise model.
+	3. Founder, [Uncle's Biryani][biryani-website] - A small time biryani business with a unique Manipuri flavour & taste with plans and vision to make it scalable into a franchise model. -->
 
 - 👯 Love to collaborate with other businesses, developers for new projects.
 - ⚡ Other interests to keep my mental & physical health in check: Gym to give me peace, 🎨draw/paint/design or illustrate to find a creative balance and ⚽ play football/soccer to burn some extra calories.
