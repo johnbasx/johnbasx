@@ -1,4 +1,4 @@
-# Hi, I'm Johnbas Tourangbam 👋  
+# Hi, I'm Johnbas 👋  
 
 🚀 **Entrepreneur | CEO | Full Stack Developer | Brand Builder**  
 
