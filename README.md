@@ -3,14 +3,14 @@
 🚀 **Entrepreneur | CEO | Full Stack Developer | Brand Builder**  
 
 I build technology solutions, brands, and businesses that create real impact.  
-Currently leading **[Foxbeta Pvt. Ltd.](https://foxbeta.tech)** — an IT & Software company providing advanced tech services, SaaS products, and enterprise solutions.  
+Currently leading **[Foxbeta Pvt. Ltd.](https://foxbeta.tech)** — an IT & Software company providing advanced tech services, SaaS products, and enterprise solutions in North East (Manipur).  
 
 ---
 
 ## 💼 Current Roles
 - **Director & CEO** – [Foxbeta Pvt. Ltd.](https://foxbeta.tech)  
   Driving product innovation, enterprise software, and advanced web/app solutions.  
-- **Ex-CEO** – Agocons Agrotech Industries Pvt. Ltd.  
+- **CEO** – Agocons Agrotech Industries Pvt. Ltd.  
   Led poultry feed production & supply chain innovations in North East India.  
 - **Founder** – Multiple ventures across tech, food, and creative industries.  
 
